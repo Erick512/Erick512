@@ -1,6 +1,5 @@
 - Hi, I’m Erick!
-- Im a Software enginner - Web Dev
-- Im currrently in #100Devs
+- Im a Full-Stack Software Engineer
 - Im looking forward to collaborting with anyone and anything that can further my skills or give me new ones.
 
 <!---
