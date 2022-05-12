@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
 <h3 align="center">A passionate Software Engineer from LA, CA</h3>
 
-- 👨‍💻 All of my projects are available at [erickalonso.com](erickalonso.com)
+- 👨‍💻 All of my projects are available at [www.erickalonso.com](erickalonso.com)
 
 - 📫 How to reach me **alonsoerick@icloud.com**
 
