@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
-<h3 align="center">A passionate Software Engineer from LA, CA</h3>
+<h3 align="center">A passionate Software Engineer from Los Angeles, CA</h3>
 
 - 👨‍💻 All of my projects are available at [erickalonso.com](https://www.erickalonso.com)
 
