@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erick Alonso</h1>
 <h3 align="center">A Software Engineer from Los Angeles, Ca.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erick512" alt="erick512" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/erickalonso512" target="blank"><img src="https://img.shields.io/twitter/follow/erickalonso512?logo=twitter&style=for-the-badge" alt="erickalonso512" /></a> </p>
 
 - 🔭 I’m currently working on [Friver](https://friver.herokuapp.com)
