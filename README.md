@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Friver](https://friver.herokuapp.com)
 
-- 👨‍💻 All of my projects are available at [https://erickalonso.com](erickalonso.com)
+- 👨‍💻 All of my projects are available at [erickalonso.com](https://erickalonso.com)
 
 - 📫 How to reach me **alonsoerick@icloud.com**
 
